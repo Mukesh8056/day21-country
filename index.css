@@ -1,0 +1,15 @@
+.container{
+    height: 500px;;
+    width:500px;
+    background-color:transparent;
+    margin-top: 200px;
+}
+#content{
+    margin-top: 100px;
+}
+#result{
+    margin-left: 100px;
+}
+body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag-map_of_the_world_%281914%29.png/1280px-Flag-map_of_the_world_%281914%29.png)
+}
